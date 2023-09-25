@@ -1,6 +1,4 @@
-feature, n:
-	A surprising property of a program.  Occasionaly documented.  To
-	call a property a feature sometimes means the author did not
-	consider that case, and the program makes an unexpected, though
-	not necessarily wrong response.  See BUG.  "That's not a bug, it's
-	a feature!"  A bug can be changed to a feature by documenting it.
+Woke up this mornin' an' I had myself a beer,
+Yeah, Ah woke up this mornin' an' I had myself a beer
+The future's uncertain and the end is always near.
+		-- Jim Morrison, "Roadhouse Blues"
